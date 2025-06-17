@@ -1,2 +1,22 @@
-# simple-python-calculator
-A simple command-line calculator built using Python. Supports addition, subtraction, multiplication, division, modulus, and exponentiation. A beginner- friendly project to practice function, loops, conditionals, and error handling in Python.
+# 🧮 Simple Python Calculator
+
+This is a basic command-line calculator built using Python. It performs the following operations:
+
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- % Modulus  
+- ** Exponentiation  
+
+## 📚 What I Learned
+
+- Python functions
+- Input validation using `try/except`
+- Loops (`while`) and conditionals (`if/else`)
+- User-friendly CLI interaction
+
+## 🚀 How to Run
+
+```bash
+python calculator.py
